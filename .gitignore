@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+slurm-*.out
+
+# 数据与结果
+*_results/
+healpix_map/
+wcs_map/
+
+# pdf输出
+*.pdf
+
+# notebook缓存
+.ipynb_checkpoints/
+
+# 大文件
+*.fits
+*.h5
+*.npy
+*.npz
+Tsys/
+*.log
+Untitled*
