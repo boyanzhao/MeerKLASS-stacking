@@ -13,14 +13,14 @@ START_TIME = time.time()
 print("start shuffle dirk")
 
 # 参数设置
-beam_rotation = 110
-theta_range = 90
+beam_rotation = 60
+N_phi = 72
 
 Use_counts = True
 Use_poisson = False
 
-N_phi = 180
 sky_components = "f1s1d1c1"
+theta_range = 90
 
 # 文件路径
 fits_file = (
