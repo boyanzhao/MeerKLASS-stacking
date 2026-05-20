@@ -24,3 +24,7 @@ wcs_map/
 Tsys/
 *.log
 Untitled*
+
+# SLURM output files
+*.err
+*.out

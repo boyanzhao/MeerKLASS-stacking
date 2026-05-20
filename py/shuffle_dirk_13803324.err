@@ -1,2 +1,0 @@
-/users/zhaoboyan/meer21cm/src/meer21cm/dataanalysis.py:991: RuntimeWarning: divide by zero encountered in divide
-  noise_map = rng.normal(scale=sigma_N / np.sqrt(counts), size=self.data.shape)
