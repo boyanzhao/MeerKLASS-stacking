@@ -13,8 +13,8 @@ START_TIME = time.time()
 print("start shuffle dirk")
 
 # 参数设置
-beam_rotation = 60
-N_phi = 72
+beam_rotation = 180
+N_phi = 75
 
 Use_counts = True
 Use_poisson = False
